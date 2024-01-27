@@ -1,0 +1,76 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+.text
+{background-color: orange;
+    padding-top: 50px;
+    text-align: center;
+}
+h1
+{text-align: center;
+
+}
+
+.icon{
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    font-size: 100px ;
+    border-radius: 50%;
+}
+
+ .icon div a{
+    
+    transform: translate(-50%, -50%);
+    color: rgb(7, 46, 240);
+    font-size: 13px;
+ }
+ 
+ .int{
+    
+    text-align: center;
+    background-color:  orange;
+    
+    
+ }
+ 
+ .int p{
+    padding-bottom: 50px;
+ }
+h1{
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+
+fieldset{
+    text-align: center;
+    background-color: orange;
+}
+.ac{
+    text-align: center;
+
+}
+.ac img{
+    width: 40%;
+    height: 40%;
+}
+.ga0{
+    text-align: center;
+    background-color: orange;
+}
+.ga1 img{
+    width: 50%;
+    padding-bottom: 50px;
+}
+.ga2 img{
+    width: 50%;
+    padding-bottom: 50px;
+}
+.ga3 img{
+    width: 50%;
+    
+}
